@@ -65,7 +65,7 @@ backend/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/task-management-api.git
+git clone https://github.com/Nitik-sharma/BackendTaskManager.git
 ```
 
 ```
@@ -224,8 +224,4 @@ Nitik Sharma
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
